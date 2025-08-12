@@ -40,6 +40,8 @@ Learn to:
 - Explore dataset similarity and enable insights using plugins and embeddings
 
 ### 2️⃣ `notebook2_GS_AgTec.ipynb` – Enhancing Dataset Quality with SAM2
+<a href="https://colab.research.google.com/drive/1rQe5kzkChFvRA-9sikOmuurIqwcH77gn" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 Learn to:
 - Apply the SAM2 segmentation model from the FiftyOne Model Zoo
 - Automatically label coffee fruit instances using bounding box prompts
