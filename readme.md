@@ -32,6 +32,8 @@ This unique dataset was captured in Colombia’s coffee regions. It contains:
 Each notebook builds progressively through a 90-minute hands-on experience.
 
 ### 1️⃣ `notebook1_GS_AgTec.ipynb` – Loading, Filtering & Exploring Coffee Beans Data
+<a href="https://colab.research.google.com/drive/19HwWsoE8WhBVsSXIuKCKt29nWOoOei75" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 Learn to:
 - Load a real-world agricultural dataset from Hugging Face into FiftyOne
 - Visualize segmentation masks and metadata using the FiftyOne App
@@ -50,6 +52,8 @@ Learn to:
 - Clean and export high-quality subsets in COCO, CVAT, or FiftyOne format
 
 ### 3️⃣ `notebook3_GS_AgTec.ipynb` – Evaluating Models with FiftyOne
+<a href="https://colab.research.google.com/drive/10FNhJMwKokjIzh9MBnRM3t4Kz9vM1BuC" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 Learn to:
 - Load a curated coffee dataset and visualize it in the FiftyOne App
 - Run inference using Intel Geti SDK models (before/after dataset curation)
@@ -58,6 +62,8 @@ Learn to:
 - Use the Model Evaluation Plugin or SDK to compute COCO-style metrics
 
 ### 4️⃣ `notebook4_GS_AgTec.ipynb` – Dataset Loading & Geolocation Exploration
+<a href="https://colab.research.google.com/drive/1OYipLzeOxvKYPBtOtRfyRn2lFV76lrZM" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 Learn to:
 - Load the Colombian coffee dataset using FiftyOne and Hugging Face integration
 - Visualize segmentation masks and inspect dataset structure in the FiftyOne App
